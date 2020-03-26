@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="https://vuepress.vuejs.org/" target="_blank">
     <img width="180" src="https://raw.githubusercontent.com/vuejs/vuepress/master/packages/docs/docs/.vuepress/public/hero.png" alt="logo">
@@ -106,3 +107,7 @@ Support this project with your organization. Your logo will show up here with a 
 ## License
 
 [MIT](https://github.com/vuejs/vuepress/blob/master/LICENSE)
+=======
+# vuepress
+Minimalistic Vue-powered static site generator
+>>>>>>> 4ececdbae0a57a3a3ea71b635359445eb257e93e
